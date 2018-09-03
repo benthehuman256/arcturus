@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Natron);
+      }
+
+      .cls-2 {
+        stroke: #9fa8da;
+        stroke-width: 20px;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: #9fa8da;
+        font-size: 275px;
+        font-family: ProductSans-Bold, Product Sans;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#001781"/>
+      <stop offset="1" stop-color="#000d4a"/>
+    </linearGradient>
+    <clipPath id="clip-Natron">
+      <rect width="500" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="Natron" class="cls-1">
+    <rect class="cls-6" width="500" height="500"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" class="cls-2">
+      <rect class="cls-4" width="500" height="500"/>
+      <rect class="cls-5" x="10" y="10" width="480" height="480"/>
+    </g>
+    <text id="Na" class="cls-3" transform="translate(79 347)"><tspan x="0" y="0">Na</tspan></text>
+  </g>
+</svg>

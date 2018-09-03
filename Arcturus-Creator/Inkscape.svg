@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Inkscape);
+      }
+
+      .cls-2 {
+        stroke: #e65100;
+        stroke-width: 20px;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: #e65100;
+        font-size: 275px;
+        font-family: ProductSans-Bold, Product Sans;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.959" y1="0.047" x2="0.042" y2="0.959" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#841300"/>
+      <stop offset="1" stop-color="#440800"/>
+    </linearGradient>
+    <clipPath id="clip-Inkscape">
+      <rect width="500" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="Inkscape" class="cls-1">
+    <rect class="cls-6" width="500" height="500"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" class="cls-2">
+      <rect class="cls-4" width="500" height="500"/>
+      <rect class="cls-5" x="10" y="10" width="480" height="480"/>
+    </g>
+    <text id="In" class="cls-3" transform="translate(133 347)"><tspan x="0" y="0">In</tspan></text>
+  </g>
+</svg>
