@@ -1,5 +1,9 @@
 # arcturus
-Alternative icon sets for popular applications.
+Alternative icon sets for popular applications. Please read warning!
+
+## Warning to all
+
+I've just found out if you don't have the Product Sans font installed the icons look awful with default serif font!
 
 ## What is this?
 
